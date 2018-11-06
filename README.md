@@ -5,4 +5,4 @@ Randomly there are obstacles and bonuses for the character.
 The aim of the game is to find the exit of the maze, but also to accumulate a higher score.
 
 
-![alt text](https://imgur.com/a/zkVnCMs.png)
+![alt text](https://i.imgur.com/S26njjL.png)
